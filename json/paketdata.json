@@ -1,0 +1,7 @@
+[
+    {"paket_quota":"xl","info":"1gb - 1d","price":"5000","status":"✅"},
+    {"paket_quota":"xl","info":"2gb - 1d","price":"5000","status":"❌"},
+    {"paket_quota":"xl","info":"3gb - 1d","price":"5000","status":"❌"},
+    {"paket_quota":"xl","info":"4gb - 1d","price":"5000","status":"❌"},
+    {"paket_quota":"xl","info":"5gb - 1d","price":"5000","status":"❌"}
+]
